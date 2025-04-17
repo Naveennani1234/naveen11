@@ -1,0 +1,21 @@
+{
+  "source_url": "https://example.com",
+  "scraped_at": "2025-04-17T05:59:27.235969",
+  "data": {
+    "title": "Example Domain",
+    "url": "https://example.com",
+    "heading": "Example Domain",
+    "metaDescription": null,
+    "links": [
+      {
+        "text": "More information...",
+        "href": "https://www.iana.org/domains/example"
+      }
+    ],
+    "paragraphs": [
+      "This domain is for use in illustrative examples in documents. You may use this\n    domain in literature without prior coordination or asking for permission.",
+      "More information..."
+    ],
+    "timestamp": "2025-04-17T05:59:27.235961"
+  }
+}
